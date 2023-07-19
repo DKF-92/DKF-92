@@ -3,6 +3,8 @@
 ##### About me :adult:
 I am Devin, I am a solution-oriented analyst, problem solver, and lifelong learner with previous experience in data analysis. I am passionate about data science because it provides me with the satisfaction to overcome challenges and solve problems.
 
+I am currently expanding my knowlodge in Machine Learning and completing as many projects as I can! 
+
 ### :hammer_and_wrench: Languages and Tools :
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
