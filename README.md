@@ -5,7 +5,7 @@ I am Devin, I am a solution-oriented analyst, problem solver, and lifelong learn
 
 I am currently expanding my knowlodge in Machine Learning and completing as many projects as I can! 
 
-- 📫 How to reach me: &nbsp; [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/devin-ferko/)
+- 📫 How to reach me: &nbsp; [![Linkedin Badge](https://img.shields.io/badge/-Devin Ferko-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/devin-ferko/)
 
 ### :hammer_and_wrench: Languages and Tools :
 <div>
