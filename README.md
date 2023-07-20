@@ -1,8 +1,6 @@
 ![Header](./github-header-img3.png)
 
-### Hello 👋
-
-##### About me :adult:
+### About me :adult:
 I am Devin, I am a solution-oriented analyst, problem solver, and lifelong learner with previous experience in data analysis. I am passionate about data science because it provides me with the satisfaction to overcome challenges and solve problems.
 
 I am currently expanding my knowlodge in Machine Learning and completing as many projects as I can! 
