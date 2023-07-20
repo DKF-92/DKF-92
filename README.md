@@ -22,7 +22,8 @@ I am currently expanding my knowlodge in Machine Learning and completing as many
   <img src="https://github.com/devicons/devicon/blob/master/icons/raspberrypi/raspberrypi-original.svg" title="raspi" alt="raspi" width="40" height="40"/>&nbsp;
 </div>
 
-
+### :fire: My Stats :
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=DKF-92&theme=dark&background=000000)](https://git.io/streak-stats)
 <!--
 **DKF-92/DKF-92** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
