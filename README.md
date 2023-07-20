@@ -23,7 +23,10 @@ I am currently expanding my knowlodge in Machine Learning and completing as many
 </div>
 
 ### :fire: My Stats :
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=DKF-92&theme=dark&background=000000)](https://git.io/streak-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=DKF-92&theme=light&background=000000)](https://git.io/streak-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DKF-92&layout=compact&theme=light)](https://github.com/anuraghazra/github-readme-stats)
+
+
 <!--
 **DKF-92/DKF-92** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
